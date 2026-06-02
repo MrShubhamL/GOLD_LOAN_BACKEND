@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @OpenAPIDefinition(
         info = @Info(
-                title = "Gold Backend project REST API Documentation",
+                title = "Gold Backend project REST API Documentation 2026",
                 description = "Gold Backend application REST API Documentation and developed by Pruthviraj Patil",
                 version="v1",
                 contact = @Contact(
